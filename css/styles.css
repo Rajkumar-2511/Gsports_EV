@@ -11439,7 +11439,7 @@ video.bg-video {
   transform: scale(1.1);
 }
 
-/* @media (max-width:950px){
+@media (max-width:950px){
   body {
     background: url("../assets/mp4/ev_bg.png");
     background-size: cover;
@@ -11448,4 +11448,4 @@ video.bg-video {
   body video {
     display: none;
   }
-} */
+}
